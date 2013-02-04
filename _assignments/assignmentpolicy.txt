@@ -1,0 +1,30 @@
+Programming Assignment Turn-in Policy:
+CS2308 Spring 2019
+Jill Seaman
+
+Electronic copy:
+--Must be submitted by the due date and time specified in the assignment.
+--Late submissions will be accepted by TRACS until 10:00am the day after the assignment is due, and will incur a 10 point penalty.  No submissions will be accepted after that (unless you have made prior arrangements with the instructor). 
+--Check the Assignments tool in TRACS to confirm your submission.
+--IF you are unable to submit your program via the TRACS Assignment tool, you must email it to the instructor (js236) before the deadline, or as soon as possible after.
+
+Hard copy:
+--Must match the electronic copy exactly!! (Do not change file after submitting)
+--Please write your name near the top of the first page!
+--Must be submitted in class the day after the specified due date OR
+--Must be submitted to Comal 211 by 5pm on the day after the specified due date.
+  * Office staff will time-stamp the hard copy *
+  * DO NOT slip it under my office door *
+
+Each member of a group must submit their own electronic copy and printout, even if they are duplicates of other students'.
+
+Penalties:
+--Electronic copy submitted but no hard copy submitted:  -5pts
+--Hard copy does not match electronic copy:  -5pts
+--Electronic copy submitted late (before 10:00am): -10pts
+--Collaborators names NOT listed in header: -30pts
+--Hard copy submitted but no electronic copy: -100 pts (score of 0)
+
+--YOUR PROGRAM MUST COMPILE: if it does not compile it will not be graded and you will get a 0.  If YOU got it to compile, contact me asap and we will work it out.
+
+
