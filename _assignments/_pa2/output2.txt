@@ -1,0 +1,82 @@
+Menu
+
+1. Display Songs sorted by title
+2. Display Songs sorted by rating
+3. Lookup title and artist by ID
+4. Lookup ID by title and artist
+5. Quit the Program
+
+Enter your choice: 1
+
+Happy                     Pharrell Williams      3.9 MB    15     4
+Let It Go                 Idina Menzel           4.8 MB    99     5
+My Heart Will Go On       Celine Dion            5.4 MB     9     5
+You've Got a Friend in Me Randy Newman           4.2 MB     6     2
+
+Menu
+
+1. Display Songs sorted by title
+2. Display Songs sorted by rating
+3. Lookup title and artist by ID
+4. Lookup ID by title and artist
+5. Quit the Program
+
+Enter your choice: 2
+
+Let It Go                 Idina Menzel           4.8 MB    99     5
+My Heart Will Go On       Celine Dion            5.4 MB     9     5
+Happy                     Pharrell Williams      3.9 MB    15     4
+You've Got a Friend in Me Randy Newman           4.2 MB     6     2
+
+Menu
+
+1. Display Songs sorted by title
+2. Display Songs sorted by rating
+3. Lookup title and artist by ID
+4. Lookup ID by title and artist
+5. Quit the Program
+
+Enter your choice: 4
+Enter the title: Happy
+Enter the artist: Pharrell Williams
+
+The ID of Happy by Pharrell Williams is B331
+
+Menu
+
+1. Display Songs sorted by title
+2. Display Songs sorted by rating
+3. Lookup title and artist by ID
+4. Lookup ID by title and artist
+5. Quit the Program
+
+Enter your choice: 3
+Enter the id of the song: B331
+
+The song with ID B331 is: 
+Happy by 
+Pharrell Williams
+
+Menu
+
+1. Display Songs sorted by title
+2. Display Songs sorted by rating
+3. Lookup title and artist by ID
+4. Lookup ID by title and artist
+5. Quit the Program
+
+Enter your choice: 3
+Enter the id of the song: C123
+
+No song found with that ID.
+
+Menu
+
+1. Display Songs sorted by title
+2. Display Songs sorted by rating
+3. Lookup title and artist by ID
+4. Lookup ID by title and artist
+5. Quit the Program
+
+Enter your choice: 5
+Exiting the program...

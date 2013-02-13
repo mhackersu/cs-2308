@@ -1,5 +1,5 @@
 // File Name: _pa1/a.cpp
-//
+// 
 // Author: (Hacker, Michael)
 // Date: 01/02/2019
 // Assignment Number: 1
@@ -18,7 +18,6 @@ using namespace std;
 // };
 
 void newMenuOrder(int, int, int, int, int, int, int, int);
-// void newMenuOrder();
 void displayMenu ();
 void takeOrder ();
 void returnMetrics (int, int, int, int, int, int, int, int);
@@ -56,7 +55,7 @@ int main () {
     // cout << itemOne.count << " " << itemOne.name << " " << itemOne.price << endl;
 
     newMenuOrder(masterCountOne, masterCountTwo, masterCountThree, masterCountFour,
-    masterCountFive, masterCountSix, masterCountSeven, masterCountEight);
+    masterCountFive, masterCountSix, masterCountSeven, masterCountEight); // main program function
     
     cin.get();
     cout << "Program has ended." << endl;
@@ -70,7 +69,6 @@ int masterCountFour, int masterCountFive, int masterCountSix, int masterCountSev
     bool loopMenuA = true;
     
     while (loopMenuA) {
-        cout << masterCountOne << endl;
         cout << "N for new order." << endl;
         cout << "E to exit and display subtotal, tax and total." << endl;
         cin >> newOrder;
@@ -93,7 +91,7 @@ int masterCountFour, int masterCountFive, int masterCountSix, int masterCountSev
         }
     }
 };
-
+// counter
 void itemOrderLoop (int masterCountOne, int masterCountTwo, int masterCountThree,
         int masterCountFour, int masterCountFive, int masterCountSix, int masterCountSeven, 
         int masterCountEight) {
@@ -208,6 +206,8 @@ void returnMetrics (int masterCountOne, int masterCountTwo, int masterCountThree
         int masterCountFour, int masterCountFive, int masterCountSix, int masterCountSeven, 
         int masterCountEight) {
 
+    // set vars
+
     double masterCountOnePrice = 1.45;
     double masterCountTwoPrice = 2.45;
     double masterCountThreePrice = 0.99;
@@ -226,8 +226,8 @@ void returnMetrics (int masterCountOne, int masterCountTwo, int masterCountThree
     double masterCountSevenPriceTotal = masterCountSevenPrice * masterCountSeven;
     double masterCountEightPriceTotal = masterCountEightPrice * masterCountEight;
 
+    // sum it up
 
-    
     cout << "Total Plain Egg: " << masterCountOne << " - Total: $" << masterCountOnePriceTotal << endl;
     cout << "Total Bacon and Egg: " << masterCountTwo << " - Total: $" << masterCountTwoPriceTotal << endl;
     cout << "Total Muffin: " << masterCountThree << " - Total: $" << masterCountThreePriceTotal << endl;
