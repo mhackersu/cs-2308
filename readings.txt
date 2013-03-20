@@ -1,0 +1,90 @@
+Reading List:
+
+Unit 1
+6.1  Modular Programming
+6.2  Defining and Calling Functions
+6.3  Function Prototypes
+6.4  Sending Data into a Function
+6.5  Passing Data by Value
+6.7  The return Statement 
+6.8  Returning a Value from a Function
+6.9  Returning a Boolean Value
+6.10 Local and Global Variables
+6.13 Using Reference Variables as Parameters
+6.15 The exit() Function
+6.16 Stubs and Drivers
+————————————————
+7.1  Arrays Hold Multiple Values
+7.2  Accessing Array Elements
+7.3  No Bounds Checking in C++
+7.5  Processing Array Contents
+7.7  Arrays as Function Arguments
+7.8  Two-Dimensional Arrays
+————————————————
+11.2 Structures
+11.3 Accessing Structure Members
+11.4 Initializing a Structure
+11.5 Arrays of Structures
+11.6 Nested Structures
+11.7 Structures as Function Arguments
+11.8 Returning a Structure from a Function
+6.12 Default Arguments
+6.14 Overloading Functions
+
+
+Unit 2
+8.1 Introduction to Search Algorithms
+————————————————
+8.3 Introduction to Sorting Algorithms
+
+Unit 3
+9.1 Getting the Address of a Variable
+9.2 Pointer Variables
+————————————————
+9.3 The Relationship between Arrays and Pointers
+9.4 Pointer Arithmetic
+9.5 Initializing Pointers
+9.6 Comparing Pointers
+9.7 Pointers as Function Parameters
+————————————————
+9.8 Dynamic Memory Allocation
+9.9 Returning Pointers from Functions
+
+Unit 4
+13.2 Introduction to Classes
+13.3 Defining an Instance of a Class
+————————————————
+13.1 Procedural and Object-Oriented Programming
+13.5 Separating Class Specification from Implementation
+————————————————
+13.6 Inline Member Functions
+13.7 Constructors
+13.8 Passing Arguments to Constructors
+13.9 Desctructors
+13.10 Overloading Constructors
+————————————————
+13.11 Private Member Function
+13.12 Arrays of Objects
+14.3 Memberwise Assignment
+14.4 Copy Constructors
+
+Unit 5
+11.9 Pointers to Structures
+18.1 Introduction to the Linked List ADT
+———————————————— 
+18.2 Linked List Operations
+
+Unit 6
+19.1 Introduction to the Stack ADT
+———————————————— 
+19.4 Introduction to the Queue ADT
+———————————————— 
+19.2 Dynamic Stacks
+19.5 Dynamic Queues
+
+Bonus
+20.1 Introduction to Recursion
+20.2 Solving Problems with Recursion
+20.3 The Recursive gcd Function
+20.4 Solving Recursively Defined Problems
+
